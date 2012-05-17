@@ -1,1 +1,4 @@
-Download the ZIP to get started with Ember.js: <https://github.com/emberjs/starter-kit/downloads>
+## A simple credit card interest calculator 
+
+based on:
+https://github.com/emberjs/starter-kit/downloads
